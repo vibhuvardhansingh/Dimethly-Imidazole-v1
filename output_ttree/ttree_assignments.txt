@@ -3122,7 +3122,142 @@ $/atom:imidazoles[0][0][0]/M2   13       #"Dimethyl Imidazole.lt", line 20
 $/atom:imidazoles[0][0][0]/M2H1   14       #"Dimethyl Imidazole.lt", line 21
 $/atom:imidazoles[0][0][0]/M2H2   15       #"Dimethyl Imidazole.lt", line 22
 $/atom:imidazoles[0][0][0]/M2H3   16       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[0][0][1]/C5   17       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[0][0][1]/C4   18       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[0][0][1]/C2   19       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[0][0][1]/N1   20       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[0][0][1]/C5H   21       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[0][0][1]/C4H   22       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[0][0][1]/C2H   23       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[0][0][1]/N3   24       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[0][0][1]/M1   25       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[0][0][1]/M1H1   26       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[0][0][1]/M1H2   27       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[0][0][1]/M1H3   28       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[0][0][1]/M2   29       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[0][0][1]/M2H1   30       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[0][0][1]/M2H2   31       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[0][0][1]/M2H3   32       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[0][1][0]/C5   33       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[0][1][0]/C4   34       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[0][1][0]/C2   35       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[0][1][0]/N1   36       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[0][1][0]/C5H   37       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[0][1][0]/C4H   38       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[0][1][0]/C2H   39       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[0][1][0]/N3   40       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[0][1][0]/M1   41       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[0][1][0]/M1H1   42       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[0][1][0]/M1H2   43       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[0][1][0]/M1H3   44       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[0][1][0]/M2   45       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[0][1][0]/M2H1   46       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[0][1][0]/M2H2   47       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[0][1][0]/M2H3   48       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[0][1][1]/C5   49       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[0][1][1]/C4   50       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[0][1][1]/C2   51       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[0][1][1]/N1   52       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[0][1][1]/C5H   53       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[0][1][1]/C4H   54       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[0][1][1]/C2H   55       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[0][1][1]/N3   56       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[0][1][1]/M1   57       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[0][1][1]/M1H1   58       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[0][1][1]/M1H2   59       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[0][1][1]/M1H3   60       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[0][1][1]/M2   61       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[0][1][1]/M2H1   62       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[0][1][1]/M2H2   63       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[0][1][1]/M2H3   64       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[1][0][0]/C5   65       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[1][0][0]/C4   66       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[1][0][0]/C2   67       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[1][0][0]/N1   68       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[1][0][0]/C5H   69       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[1][0][0]/C4H   70       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[1][0][0]/C2H   71       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[1][0][0]/N3   72       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[1][0][0]/M1   73       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[1][0][0]/M1H1   74       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[1][0][0]/M1H2   75       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[1][0][0]/M1H3   76       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[1][0][0]/M2   77       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[1][0][0]/M2H1   78       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[1][0][0]/M2H2   79       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[1][0][0]/M2H3   80       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[1][0][1]/C5   81       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[1][0][1]/C4   82       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[1][0][1]/C2   83       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[1][0][1]/N1   84       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[1][0][1]/C5H   85       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[1][0][1]/C4H   86       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[1][0][1]/C2H   87       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[1][0][1]/N3   88       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[1][0][1]/M1   89       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[1][0][1]/M1H1   90       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[1][0][1]/M1H2   91       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[1][0][1]/M1H3   92       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[1][0][1]/M2   93       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[1][0][1]/M2H1   94       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[1][0][1]/M2H2   95       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[1][0][1]/M2H3   96       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[1][1][0]/C5   97       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[1][1][0]/C4   98       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[1][1][0]/C2   99       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[1][1][0]/N1   100       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[1][1][0]/C5H   101       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[1][1][0]/C4H   102       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[1][1][0]/C2H   103       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[1][1][0]/N3   104       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[1][1][0]/M1   105       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[1][1][0]/M1H1   106       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[1][1][0]/M1H2   107       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[1][1][0]/M1H3   108       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[1][1][0]/M2   109       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[1][1][0]/M2H1   110       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[1][1][0]/M2H2   111       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[1][1][0]/M2H3   112       #"Dimethyl Imidazole.lt", line 23
+$/atom:imidazoles[1][1][1]/C5   113       #"Dimethyl Imidazole.lt", line 8
+$/atom:imidazoles[1][1][1]/C4   114       #"Dimethyl Imidazole.lt", line 9
+$/atom:imidazoles[1][1][1]/C2   115       #"Dimethyl Imidazole.lt", line 10
+$/atom:imidazoles[1][1][1]/N1   116       #"Dimethyl Imidazole.lt", line 11
+$/atom:imidazoles[1][1][1]/C5H   117       #"Dimethyl Imidazole.lt", line 12
+$/atom:imidazoles[1][1][1]/C4H   118       #"Dimethyl Imidazole.lt", line 13
+$/atom:imidazoles[1][1][1]/C2H   119       #"Dimethyl Imidazole.lt", line 14
+$/atom:imidazoles[1][1][1]/N3   120       #"Dimethyl Imidazole.lt", line 15
+$/atom:imidazoles[1][1][1]/M1   121       #"Dimethyl Imidazole.lt", line 16
+$/atom:imidazoles[1][1][1]/M1H1   122       #"Dimethyl Imidazole.lt", line 17
+$/atom:imidazoles[1][1][1]/M1H2   123       #"Dimethyl Imidazole.lt", line 18
+$/atom:imidazoles[1][1][1]/M1H3   124       #"Dimethyl Imidazole.lt", line 19
+$/atom:imidazoles[1][1][1]/M2   125       #"Dimethyl Imidazole.lt", line 20
+$/atom:imidazoles[1][1][1]/M2H1   126       #"Dimethyl Imidazole.lt", line 21
+$/atom:imidazoles[1][1][1]/M2H2   127       #"Dimethyl Imidazole.lt", line 22
+$/atom:imidazoles[1][1][1]/M2H3   128       #"Dimethyl Imidazole.lt", line 23
+$/atom:cl[0][0][0]/Cl   129       #"chloride.lt", line 10
+$/atom:cl[0][0][1]/Cl   130       #"chloride.lt", line 10
+$/atom:cl[0][1][0]/Cl   131       #"chloride.lt", line 10
+$/atom:cl[0][1][1]/Cl   132       #"chloride.lt", line 10
+$/atom:cl[1][0][0]/Cl   133       #"chloride.lt", line 10
+$/atom:cl[1][0][1]/Cl   134       #"chloride.lt", line 10
+$/atom:cl[1][1][0]/Cl   135       #"chloride.lt", line 10
+$/atom:cl[1][1][1]/Cl   136       #"chloride.lt", line 10
 $/mol:imidazoles[0][0][0]   1       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[0][0][1]   2       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[0][1][0]   3       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[0][1][1]   4       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[1][0][0]   5       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[1][0][1]   6       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[1][1][0]   7       #"Dimethyl Imidazole.lt", line 8
+$/mol:imidazoles[1][1][1]   8       #"Dimethyl Imidazole.lt", line 8
+$/mol:cl[0][0][0]   9       #"chloride.lt", line 10
+$/mol:cl[0][0][1]   10       #"chloride.lt", line 10
+$/mol:cl[0][1][0]   11       #"chloride.lt", line 10
+$/mol:cl[0][1][1]   12       #"chloride.lt", line 10
+$/mol:cl[1][0][0]   13       #"chloride.lt", line 10
+$/mol:cl[1][0][1]   14       #"chloride.lt", line 10
+$/mol:cl[1][1][0]   15       #"chloride.lt", line 10
+$/mol:cl[1][1][1]   16       #"chloride.lt", line 10
 $/bond:imidazoles[0][0][0]/N1M1   1       #"Dimethyl Imidazole.lt", line 28
 $/bond:imidazoles[0][0][0]/N3M2   2       #"Dimethyl Imidazole.lt", line 29
 $/bond:imidazoles[0][0][0]/C45   3       #"Dimethyl Imidazole.lt", line 30
@@ -3139,6 +3274,118 @@ $/bond:imidazoles[0][0][0]/M1H3   13       #"Dimethyl Imidazole.lt", line 40
 $/bond:imidazoles[0][0][0]/M2H1   14       #"Dimethyl Imidazole.lt", line 41
 $/bond:imidazoles[0][0][0]/M2H2   15       #"Dimethyl Imidazole.lt", line 42
 $/bond:imidazoles[0][0][0]/M2H3   16       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[0][0][1]/N1M1   17       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[0][0][1]/N3M2   18       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[0][0][1]/C45   19       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[0][0][1]/C5N1   20       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[0][0][1]/C2N1   21       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[0][0][1]/C2N3   22       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[0][0][1]/C4N3   23       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[0][0][1]/C2H   24       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[0][0][1]/C4H   25       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[0][0][1]/C5H   26       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[0][0][1]/M1H1   27       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[0][0][1]/M1H2   28       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[0][0][1]/M1H3   29       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[0][0][1]/M2H1   30       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[0][0][1]/M2H2   31       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[0][0][1]/M2H3   32       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[0][1][0]/N1M1   33       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[0][1][0]/N3M2   34       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[0][1][0]/C45   35       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[0][1][0]/C5N1   36       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[0][1][0]/C2N1   37       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[0][1][0]/C2N3   38       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[0][1][0]/C4N3   39       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[0][1][0]/C2H   40       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[0][1][0]/C4H   41       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[0][1][0]/C5H   42       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[0][1][0]/M1H1   43       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[0][1][0]/M1H2   44       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[0][1][0]/M1H3   45       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[0][1][0]/M2H1   46       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[0][1][0]/M2H2   47       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[0][1][0]/M2H3   48       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[0][1][1]/N1M1   49       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[0][1][1]/N3M2   50       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[0][1][1]/C45   51       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[0][1][1]/C5N1   52       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[0][1][1]/C2N1   53       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[0][1][1]/C2N3   54       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[0][1][1]/C4N3   55       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[0][1][1]/C2H   56       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[0][1][1]/C4H   57       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[0][1][1]/C5H   58       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[0][1][1]/M1H1   59       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[0][1][1]/M1H2   60       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[0][1][1]/M1H3   61       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[0][1][1]/M2H1   62       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[0][1][1]/M2H2   63       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[0][1][1]/M2H3   64       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[1][0][0]/N1M1   65       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[1][0][0]/N3M2   66       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[1][0][0]/C45   67       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[1][0][0]/C5N1   68       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[1][0][0]/C2N1   69       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[1][0][0]/C2N3   70       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[1][0][0]/C4N3   71       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[1][0][0]/C2H   72       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[1][0][0]/C4H   73       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[1][0][0]/C5H   74       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[1][0][0]/M1H1   75       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[1][0][0]/M1H2   76       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[1][0][0]/M1H3   77       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[1][0][0]/M2H1   78       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[1][0][0]/M2H2   79       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[1][0][0]/M2H3   80       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[1][0][1]/N1M1   81       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[1][0][1]/N3M2   82       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[1][0][1]/C45   83       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[1][0][1]/C5N1   84       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[1][0][1]/C2N1   85       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[1][0][1]/C2N3   86       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[1][0][1]/C4N3   87       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[1][0][1]/C2H   88       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[1][0][1]/C4H   89       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[1][0][1]/C5H   90       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[1][0][1]/M1H1   91       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[1][0][1]/M1H2   92       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[1][0][1]/M1H3   93       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[1][0][1]/M2H1   94       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[1][0][1]/M2H2   95       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[1][0][1]/M2H3   96       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[1][1][0]/N1M1   97       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[1][1][0]/N3M2   98       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[1][1][0]/C45   99       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[1][1][0]/C5N1   100       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[1][1][0]/C2N1   101       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[1][1][0]/C2N3   102       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[1][1][0]/C4N3   103       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[1][1][0]/C2H   104       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[1][1][0]/C4H   105       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[1][1][0]/C5H   106       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[1][1][0]/M1H1   107       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[1][1][0]/M1H2   108       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[1][1][0]/M1H3   109       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[1][1][0]/M2H1   110       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[1][1][0]/M2H2   111       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[1][1][0]/M2H3   112       #"Dimethyl Imidazole.lt", line 43
+$/bond:imidazoles[1][1][1]/N1M1   113       #"Dimethyl Imidazole.lt", line 28
+$/bond:imidazoles[1][1][1]/N3M2   114       #"Dimethyl Imidazole.lt", line 29
+$/bond:imidazoles[1][1][1]/C45   115       #"Dimethyl Imidazole.lt", line 30
+$/bond:imidazoles[1][1][1]/C5N1   116       #"Dimethyl Imidazole.lt", line 31
+$/bond:imidazoles[1][1][1]/C2N1   117       #"Dimethyl Imidazole.lt", line 32
+$/bond:imidazoles[1][1][1]/C2N3   118       #"Dimethyl Imidazole.lt", line 33
+$/bond:imidazoles[1][1][1]/C4N3   119       #"Dimethyl Imidazole.lt", line 34
+$/bond:imidazoles[1][1][1]/C2H   120       #"Dimethyl Imidazole.lt", line 35
+$/bond:imidazoles[1][1][1]/C4H   121       #"Dimethyl Imidazole.lt", line 36
+$/bond:imidazoles[1][1][1]/C5H   122       #"Dimethyl Imidazole.lt", line 37
+$/bond:imidazoles[1][1][1]/M1H1   123       #"Dimethyl Imidazole.lt", line 38
+$/bond:imidazoles[1][1][1]/M1H2   124       #"Dimethyl Imidazole.lt", line 39
+$/bond:imidazoles[1][1][1]/M1H3   125       #"Dimethyl Imidazole.lt", line 40
+$/bond:imidazoles[1][1][1]/M2H1   126       #"Dimethyl Imidazole.lt", line 41
+$/bond:imidazoles[1][1][1]/M2H2   127       #"Dimethyl Imidazole.lt", line 42
+$/bond:imidazoles[1][1][1]/M2H3   128       #"Dimethyl Imidazole.lt", line 43
 $/angle:bytype1  1
 $/angle:bytype2  2
 $/angle:bytype3  3
@@ -3160,6 +3407,153 @@ $/angle:bytype18  18
 $/angle:bytype19  19
 $/angle:bytype20  20
 $/angle:bytype21  21
+$/angle:bytype22  22
+$/angle:bytype23  23
+$/angle:bytype24  24
+$/angle:bytype25  25
+$/angle:bytype26  26
+$/angle:bytype27  27
+$/angle:bytype28  28
+$/angle:bytype29  29
+$/angle:bytype30  30
+$/angle:bytype31  31
+$/angle:bytype32  32
+$/angle:bytype33  33
+$/angle:bytype34  34
+$/angle:bytype35  35
+$/angle:bytype36  36
+$/angle:bytype37  37
+$/angle:bytype38  38
+$/angle:bytype39  39
+$/angle:bytype40  40
+$/angle:bytype41  41
+$/angle:bytype42  42
+$/angle:bytype43  43
+$/angle:bytype44  44
+$/angle:bytype45  45
+$/angle:bytype46  46
+$/angle:bytype47  47
+$/angle:bytype48  48
+$/angle:bytype49  49
+$/angle:bytype50  50
+$/angle:bytype51  51
+$/angle:bytype52  52
+$/angle:bytype53  53
+$/angle:bytype54  54
+$/angle:bytype55  55
+$/angle:bytype56  56
+$/angle:bytype57  57
+$/angle:bytype58  58
+$/angle:bytype59  59
+$/angle:bytype60  60
+$/angle:bytype61  61
+$/angle:bytype62  62
+$/angle:bytype63  63
+$/angle:bytype64  64
+$/angle:bytype65  65
+$/angle:bytype66  66
+$/angle:bytype67  67
+$/angle:bytype68  68
+$/angle:bytype69  69
+$/angle:bytype70  70
+$/angle:bytype71  71
+$/angle:bytype72  72
+$/angle:bytype73  73
+$/angle:bytype74  74
+$/angle:bytype75  75
+$/angle:bytype76  76
+$/angle:bytype77  77
+$/angle:bytype78  78
+$/angle:bytype79  79
+$/angle:bytype80  80
+$/angle:bytype81  81
+$/angle:bytype82  82
+$/angle:bytype83  83
+$/angle:bytype84  84
+$/angle:bytype85  85
+$/angle:bytype86  86
+$/angle:bytype87  87
+$/angle:bytype88  88
+$/angle:bytype89  89
+$/angle:bytype90  90
+$/angle:bytype91  91
+$/angle:bytype92  92
+$/angle:bytype93  93
+$/angle:bytype94  94
+$/angle:bytype95  95
+$/angle:bytype96  96
+$/angle:bytype97  97
+$/angle:bytype98  98
+$/angle:bytype99  99
+$/angle:bytype100  100
+$/angle:bytype101  101
+$/angle:bytype102  102
+$/angle:bytype103  103
+$/angle:bytype104  104
+$/angle:bytype105  105
+$/angle:bytype106  106
+$/angle:bytype107  107
+$/angle:bytype108  108
+$/angle:bytype109  109
+$/angle:bytype110  110
+$/angle:bytype111  111
+$/angle:bytype112  112
+$/angle:bytype113  113
+$/angle:bytype114  114
+$/angle:bytype115  115
+$/angle:bytype116  116
+$/angle:bytype117  117
+$/angle:bytype118  118
+$/angle:bytype119  119
+$/angle:bytype120  120
+$/angle:bytype121  121
+$/angle:bytype122  122
+$/angle:bytype123  123
+$/angle:bytype124  124
+$/angle:bytype125  125
+$/angle:bytype126  126
+$/angle:bytype127  127
+$/angle:bytype128  128
+$/angle:bytype129  129
+$/angle:bytype130  130
+$/angle:bytype131  131
+$/angle:bytype132  132
+$/angle:bytype133  133
+$/angle:bytype134  134
+$/angle:bytype135  135
+$/angle:bytype136  136
+$/angle:bytype137  137
+$/angle:bytype138  138
+$/angle:bytype139  139
+$/angle:bytype140  140
+$/angle:bytype141  141
+$/angle:bytype142  142
+$/angle:bytype143  143
+$/angle:bytype144  144
+$/angle:bytype145  145
+$/angle:bytype146  146
+$/angle:bytype147  147
+$/angle:bytype148  148
+$/angle:bytype149  149
+$/angle:bytype150  150
+$/angle:bytype151  151
+$/angle:bytype152  152
+$/angle:bytype153  153
+$/angle:bytype154  154
+$/angle:bytype155  155
+$/angle:bytype156  156
+$/angle:bytype157  157
+$/angle:bytype158  158
+$/angle:bytype159  159
+$/angle:bytype160  160
+$/angle:bytype161  161
+$/angle:bytype162  162
+$/angle:bytype163  163
+$/angle:bytype164  164
+$/angle:bytype165  165
+$/angle:bytype166  166
+$/angle:bytype167  167
+$/angle:bytype168  168
 $/dihedral:bytype1  1
 $/dihedral:bytype2  2
 $/dihedral:bytype3  3
@@ -3200,3 +3594,283 @@ $/dihedral:bytype37  37
 $/dihedral:bytype38  38
 $/dihedral:bytype39  39
 $/dihedral:bytype40  40
+$/dihedral:bytype41  41
+$/dihedral:bytype42  42
+$/dihedral:bytype43  43
+$/dihedral:bytype44  44
+$/dihedral:bytype45  45
+$/dihedral:bytype46  46
+$/dihedral:bytype47  47
+$/dihedral:bytype48  48
+$/dihedral:bytype49  49
+$/dihedral:bytype50  50
+$/dihedral:bytype51  51
+$/dihedral:bytype52  52
+$/dihedral:bytype53  53
+$/dihedral:bytype54  54
+$/dihedral:bytype55  55
+$/dihedral:bytype56  56
+$/dihedral:bytype57  57
+$/dihedral:bytype58  58
+$/dihedral:bytype59  59
+$/dihedral:bytype60  60
+$/dihedral:bytype61  61
+$/dihedral:bytype62  62
+$/dihedral:bytype63  63
+$/dihedral:bytype64  64
+$/dihedral:bytype65  65
+$/dihedral:bytype66  66
+$/dihedral:bytype67  67
+$/dihedral:bytype68  68
+$/dihedral:bytype69  69
+$/dihedral:bytype70  70
+$/dihedral:bytype71  71
+$/dihedral:bytype72  72
+$/dihedral:bytype73  73
+$/dihedral:bytype74  74
+$/dihedral:bytype75  75
+$/dihedral:bytype76  76
+$/dihedral:bytype77  77
+$/dihedral:bytype78  78
+$/dihedral:bytype79  79
+$/dihedral:bytype80  80
+$/dihedral:bytype81  81
+$/dihedral:bytype82  82
+$/dihedral:bytype83  83
+$/dihedral:bytype84  84
+$/dihedral:bytype85  85
+$/dihedral:bytype86  86
+$/dihedral:bytype87  87
+$/dihedral:bytype88  88
+$/dihedral:bytype89  89
+$/dihedral:bytype90  90
+$/dihedral:bytype91  91
+$/dihedral:bytype92  92
+$/dihedral:bytype93  93
+$/dihedral:bytype94  94
+$/dihedral:bytype95  95
+$/dihedral:bytype96  96
+$/dihedral:bytype97  97
+$/dihedral:bytype98  98
+$/dihedral:bytype99  99
+$/dihedral:bytype100  100
+$/dihedral:bytype101  101
+$/dihedral:bytype102  102
+$/dihedral:bytype103  103
+$/dihedral:bytype104  104
+$/dihedral:bytype105  105
+$/dihedral:bytype106  106
+$/dihedral:bytype107  107
+$/dihedral:bytype108  108
+$/dihedral:bytype109  109
+$/dihedral:bytype110  110
+$/dihedral:bytype111  111
+$/dihedral:bytype112  112
+$/dihedral:bytype113  113
+$/dihedral:bytype114  114
+$/dihedral:bytype115  115
+$/dihedral:bytype116  116
+$/dihedral:bytype117  117
+$/dihedral:bytype118  118
+$/dihedral:bytype119  119
+$/dihedral:bytype120  120
+$/dihedral:bytype121  121
+$/dihedral:bytype122  122
+$/dihedral:bytype123  123
+$/dihedral:bytype124  124
+$/dihedral:bytype125  125
+$/dihedral:bytype126  126
+$/dihedral:bytype127  127
+$/dihedral:bytype128  128
+$/dihedral:bytype129  129
+$/dihedral:bytype130  130
+$/dihedral:bytype131  131
+$/dihedral:bytype132  132
+$/dihedral:bytype133  133
+$/dihedral:bytype134  134
+$/dihedral:bytype135  135
+$/dihedral:bytype136  136
+$/dihedral:bytype137  137
+$/dihedral:bytype138  138
+$/dihedral:bytype139  139
+$/dihedral:bytype140  140
+$/dihedral:bytype141  141
+$/dihedral:bytype142  142
+$/dihedral:bytype143  143
+$/dihedral:bytype144  144
+$/dihedral:bytype145  145
+$/dihedral:bytype146  146
+$/dihedral:bytype147  147
+$/dihedral:bytype148  148
+$/dihedral:bytype149  149
+$/dihedral:bytype150  150
+$/dihedral:bytype151  151
+$/dihedral:bytype152  152
+$/dihedral:bytype153  153
+$/dihedral:bytype154  154
+$/dihedral:bytype155  155
+$/dihedral:bytype156  156
+$/dihedral:bytype157  157
+$/dihedral:bytype158  158
+$/dihedral:bytype159  159
+$/dihedral:bytype160  160
+$/dihedral:bytype161  161
+$/dihedral:bytype162  162
+$/dihedral:bytype163  163
+$/dihedral:bytype164  164
+$/dihedral:bytype165  165
+$/dihedral:bytype166  166
+$/dihedral:bytype167  167
+$/dihedral:bytype168  168
+$/dihedral:bytype169  169
+$/dihedral:bytype170  170
+$/dihedral:bytype171  171
+$/dihedral:bytype172  172
+$/dihedral:bytype173  173
+$/dihedral:bytype174  174
+$/dihedral:bytype175  175
+$/dihedral:bytype176  176
+$/dihedral:bytype177  177
+$/dihedral:bytype178  178
+$/dihedral:bytype179  179
+$/dihedral:bytype180  180
+$/dihedral:bytype181  181
+$/dihedral:bytype182  182
+$/dihedral:bytype183  183
+$/dihedral:bytype184  184
+$/dihedral:bytype185  185
+$/dihedral:bytype186  186
+$/dihedral:bytype187  187
+$/dihedral:bytype188  188
+$/dihedral:bytype189  189
+$/dihedral:bytype190  190
+$/dihedral:bytype191  191
+$/dihedral:bytype192  192
+$/dihedral:bytype193  193
+$/dihedral:bytype194  194
+$/dihedral:bytype195  195
+$/dihedral:bytype196  196
+$/dihedral:bytype197  197
+$/dihedral:bytype198  198
+$/dihedral:bytype199  199
+$/dihedral:bytype200  200
+$/dihedral:bytype201  201
+$/dihedral:bytype202  202
+$/dihedral:bytype203  203
+$/dihedral:bytype204  204
+$/dihedral:bytype205  205
+$/dihedral:bytype206  206
+$/dihedral:bytype207  207
+$/dihedral:bytype208  208
+$/dihedral:bytype209  209
+$/dihedral:bytype210  210
+$/dihedral:bytype211  211
+$/dihedral:bytype212  212
+$/dihedral:bytype213  213
+$/dihedral:bytype214  214
+$/dihedral:bytype215  215
+$/dihedral:bytype216  216
+$/dihedral:bytype217  217
+$/dihedral:bytype218  218
+$/dihedral:bytype219  219
+$/dihedral:bytype220  220
+$/dihedral:bytype221  221
+$/dihedral:bytype222  222
+$/dihedral:bytype223  223
+$/dihedral:bytype224  224
+$/dihedral:bytype225  225
+$/dihedral:bytype226  226
+$/dihedral:bytype227  227
+$/dihedral:bytype228  228
+$/dihedral:bytype229  229
+$/dihedral:bytype230  230
+$/dihedral:bytype231  231
+$/dihedral:bytype232  232
+$/dihedral:bytype233  233
+$/dihedral:bytype234  234
+$/dihedral:bytype235  235
+$/dihedral:bytype236  236
+$/dihedral:bytype237  237
+$/dihedral:bytype238  238
+$/dihedral:bytype239  239
+$/dihedral:bytype240  240
+$/dihedral:bytype241  241
+$/dihedral:bytype242  242
+$/dihedral:bytype243  243
+$/dihedral:bytype244  244
+$/dihedral:bytype245  245
+$/dihedral:bytype246  246
+$/dihedral:bytype247  247
+$/dihedral:bytype248  248
+$/dihedral:bytype249  249
+$/dihedral:bytype250  250
+$/dihedral:bytype251  251
+$/dihedral:bytype252  252
+$/dihedral:bytype253  253
+$/dihedral:bytype254  254
+$/dihedral:bytype255  255
+$/dihedral:bytype256  256
+$/dihedral:bytype257  257
+$/dihedral:bytype258  258
+$/dihedral:bytype259  259
+$/dihedral:bytype260  260
+$/dihedral:bytype261  261
+$/dihedral:bytype262  262
+$/dihedral:bytype263  263
+$/dihedral:bytype264  264
+$/dihedral:bytype265  265
+$/dihedral:bytype266  266
+$/dihedral:bytype267  267
+$/dihedral:bytype268  268
+$/dihedral:bytype269  269
+$/dihedral:bytype270  270
+$/dihedral:bytype271  271
+$/dihedral:bytype272  272
+$/dihedral:bytype273  273
+$/dihedral:bytype274  274
+$/dihedral:bytype275  275
+$/dihedral:bytype276  276
+$/dihedral:bytype277  277
+$/dihedral:bytype278  278
+$/dihedral:bytype279  279
+$/dihedral:bytype280  280
+$/dihedral:bytype281  281
+$/dihedral:bytype282  282
+$/dihedral:bytype283  283
+$/dihedral:bytype284  284
+$/dihedral:bytype285  285
+$/dihedral:bytype286  286
+$/dihedral:bytype287  287
+$/dihedral:bytype288  288
+$/dihedral:bytype289  289
+$/dihedral:bytype290  290
+$/dihedral:bytype291  291
+$/dihedral:bytype292  292
+$/dihedral:bytype293  293
+$/dihedral:bytype294  294
+$/dihedral:bytype295  295
+$/dihedral:bytype296  296
+$/dihedral:bytype297  297
+$/dihedral:bytype298  298
+$/dihedral:bytype299  299
+$/dihedral:bytype300  300
+$/dihedral:bytype301  301
+$/dihedral:bytype302  302
+$/dihedral:bytype303  303
+$/dihedral:bytype304  304
+$/dihedral:bytype305  305
+$/dihedral:bytype306  306
+$/dihedral:bytype307  307
+$/dihedral:bytype308  308
+$/dihedral:bytype309  309
+$/dihedral:bytype310  310
+$/dihedral:bytype311  311
+$/dihedral:bytype312  312
+$/dihedral:bytype313  313
+$/dihedral:bytype314  314
+$/dihedral:bytype315  315
+$/dihedral:bytype316  316
+$/dihedral:bytype317  317
+$/dihedral:bytype318  318
+$/dihedral:bytype319  319
+$/dihedral:bytype320  320

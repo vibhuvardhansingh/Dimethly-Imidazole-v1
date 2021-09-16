@@ -1,2 +1,0 @@
-topo readlammpsdata system.data full
-animate write psf system.psf

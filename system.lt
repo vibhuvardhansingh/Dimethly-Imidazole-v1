@@ -8,12 +8,12 @@ write_once("Data Boundary") {
    0.0  48.00  zlo zhi
 }
 
-imidazoles  = new Imidazole[1].move(8.0, 0, 0)
-			                     [1].move(0, 8.0, 0)
-                           [1].move(0, 0, 8.0)
+imidazoles  = new Imidazole[2].move(8.0, 0, 0)
+			                     [2].move(0, 8.0, 0)
+                           [2].move(0, 0, 8.0)
 
-#cl = new ClIon [2].move(8,0,0)
-        #       [2].move(0,8,0)
-        #       [2].move(0,0,8)
+cl = new ClIon [2].move(8,0,0)
+               [2].move(0,8,0)
+               [2].move(0,0,8)
 
 #cl[*][*][*].move(4.0, 4.0, 4.0)
