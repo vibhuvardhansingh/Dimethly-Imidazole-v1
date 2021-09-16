@@ -1,0 +1,16 @@
+$/atom:imidazoles[0][0][0]/C5 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/502_b084_a084_d084_i084 0.00 0.738 -2.904 0.064 #      C
+$/atom:imidazoles[0][0][0]/C4 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/502_b084_a084_d084_i084 0.00 2.084 -2.863 0.01 #     C
+$/atom:imidazoles[0][0][0]/C2 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/499_b082_a082_d082_i082 0.00 1.423 -0.719 0.084 #    C
+$/atom:imidazoles[0][0][0]/N1 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/498_b057_a057_d057_i057 0.00 0.234 -1.554 0.362 #    N
+$/atom:imidazoles[0][0][0]/C5H $/mol:imidazoles[0][0][0] @/atom:OPLSAA/506_b049_a049_d049_i049 0.00 0.135 -3.774 -0.09 #    H
+$/atom:imidazoles[0][0][0]/C4H $/mol:imidazoles[0][0][0] @/atom:OPLSAA/505_b049_a049_d049_i049 0.00 2.739 -3.707 -0.049 #     H
+$/atom:imidazoles[0][0][0]/C2H $/mol:imidazoles[0][0][0] @/atom:OPLSAA/504_b049_a049_d049_i049 0.00 1.407 0.342 -0.053 #     H
+$/atom:imidazoles[0][0][0]/N3 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/498_b057_a057_d057_i057 0.00 2.488 -1.457 0.025 #   N
+$/atom:imidazoles[0][0][0]/M1 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/772_b013_a013_d013_i013 0.00 -0.944 -1.179 -0.434 #   C
+$/atom:imidazoles[0][0][0]/M1H1 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/85_b046_a046_d046_i046 0.00 -1.751 -1.845 -0.211 #    H
+$/atom:imidazoles[0][0][0]/M1H2 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/85_b046_a046_d046_i046 0.00 -1.232 -0.177 -0.195 #    H
+$/atom:imidazoles[0][0][0]/M1H3 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/85_b046_a046_d046_i046 0.00 -0.706 -1.243 -1.475 #    H
+$/atom:imidazoles[0][0][0]/M2 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/772_b013_a013_d013_i013 0.00 3.871 -0.963 -0.039 #   C
+$/atom:imidazoles[0][0][0]/M2H1 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/85_b046_a046_d046_i046 0.00 4.525 -1.675 0.42 #     H
+$/atom:imidazoles[0][0][0]/M2H2 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/85_b046_a046_d046_i046 0.00 4.154 -0.825 -1.061 #    H
+$/atom:imidazoles[0][0][0]/M2H3 $/mol:imidazoles[0][0][0] @/atom:OPLSAA/85_b046_a046_d046_i046 0.00 3.94 -0.03 0.48 #   H
