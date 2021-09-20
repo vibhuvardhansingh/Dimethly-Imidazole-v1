@@ -1,0 +1,41 @@
+Info) VMD for LINUXAMD64, version 1.9.4a51 (December 21, 2020)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 12 CPUs detected.
+Info)   CPU features: SSE2 SSE4.1 AVX AVX2 FMA F16 HT 
+Info) Free system memory: 10GB (68%)
+Info) No CUDA accelerator devices available.
+Warning) Detected X11 'Composite' extension: if incorrect display occurs
+Warning) try disabling this X server option.  Most OpenGL drivers
+Warning) disable stereoscopic display when 'Composite' is enabled.
+Info) OpenGL renderer: Mesa DRI Intel(R) UHD Graphics 630 (CML GT2)
+Info)   Features: STENCIL MSAA(4) MDE CVA MTX NPOT PP PS GLSL(OVFS) 
+Info)   Full GLSL rendering mode is available.
+Info)   Textures: 2-D (16384x16384), 3-D (512x512x512), Multitexture (8)
+Info) Dynamically loaded 3 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+Info) File loading in progress, please wait.
+Warning) Unable to ascertain filetype from filename 'require'; assuming pdb.
+ERROR) Could not read file require
+ERROR) Loading of startup molecule files aborted.
+vmd > Info) Using plugin lammpstrj for structure file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_npt.lammpstrj
+lammpsplugin) New style dump with 9 data fields. Coordinate data flags: 0x05
+lammpsplugin) Using absolute atomic coordinates directly.
+Info) Using plugin lammpstrj for coordinates from file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_npt.lammpstrj
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 2125
+Info)    Bonds: 2513
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 250
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 250   Protein: 0   Nucleic: 0
+Info) Finished with coordinate file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_npt.lammpstrj.
+Info) VMD for LINUXAMD64, version 1.9.4a51 (December 21, 2020)
+Info) Exiting normally.

@@ -5,22 +5,22 @@ Imidazole inherits OPLSAA {
   # atom-id mol-id atom-type charge  X     Y      Z        #  comment
 
   write("Data Atoms") {
-    $atom:C5  $mol @atom:502  0.00  0.738  -2.904   0.064                 #      C
-    $atom:C4  $mol @atom:502  0.00  2.084  -2.863   0.010                  #     C
-    $atom:C2  $mol @atom:499  0.00  1.423  -0.719   0.084                   #    C
-    $atom:N1  $mol @atom:498  0.00  0.234  -1.554   0.362                   #    N
-    $atom:C5H $mol @atom:506  0.00  0.135  -3.774  -0.090                  #    H
-    $atom:C4H $mol @atom:505  0.00  2.739  -3.707  -0.049                  #     H
-    $atom:C2H $mol @atom:504  0.00  1.407   0.342  -0.053                  #     H
-    $atom:N3  $mol @atom:498  0.00  2.488  -1.457   0.025                    #   N
-    $atom:M1  $mol @atom:772  0.00 -0.944  -1.179  -0.434                    #   C
-    $atom:M1H1 $mol @atom:85  0.00 -1.751  -1.845  -0.211                   #    H
-    $atom:M1H2 $mol @atom:85  0.00 -1.232  -0.177  -0.195                   #    H
-    $atom:M1H3 $mol @atom:85  0.00 -0.706  -1.243  -1.475                   #    H
-    $atom:M2  $mol @atom:772  0.00  3.871  -0.963  -0.039                    #   C
-    $atom:M2H1 $mol @atom:85  0.00  4.525  -1.675   0.420                  #     H
-    $atom:M2H2 $mol @atom:85  0.00  4.154  -0.825  -1.061                  #    H
-    $atom:M2H3 $mol @atom:85  0.00  3.940  -0.030   0.480                   #   H
+    $atom:C5  $mol @atom:602  0.00  0.738  -2.904   0.064                 #      C
+    $atom:C4  $mol @atom:602  0.00  2.084  -2.863   0.010                  #     C
+    $atom:C2  $mol @atom:599  0.00  1.423  -0.719   0.084                   #    C
+    $atom:N1  $mol @atom:598  0.00  0.234  -1.554   0.362                   #    N
+    $atom:C5H $mol @atom:606  0.00  0.135  -3.774  -0.090                  #    H
+    $atom:C4H $mol @atom:605  0.00  2.739  -3.707  -0.049                  #     H
+    $atom:C2H $mol @atom:604  0.00  1.407   0.342  -0.053                  #     H
+    $atom:N3  $mol @atom:598  0.00  2.488  -1.457   0.025                    #   N
+    $atom:M1  $mol @atom:603  0.00 -0.944  -1.179  -0.434                    #   C
+    $atom:M1H1 $mol @atom:607 0.00 -1.751  -1.845  -0.211                   #    H
+    $atom:M1H2 $mol @atom:607 0.00 -1.232  -0.177  -0.195                   #    H
+    $atom:M1H3 $mol @atom:607 0.00 -0.706  -1.243  -1.475                   #    H
+    $atom:M2  $mol @atom:603  0.00  3.871  -0.963  -0.039                    #   C
+    $atom:M2H1 $mol @atom:607 0.00  4.525  -1.675   0.420                  #     H
+    $atom:M2H2 $mol @atom:607 0.00  4.154  -0.825  -1.061                  #    H
+    $atom:M2H3 $mol @atom:607 0.00  3.940  -0.030   0.480                   #   H
   }
 
 write("Data Bond List") {
