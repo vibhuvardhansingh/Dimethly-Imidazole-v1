@@ -7,7 +7,7 @@ Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
 Info) -------------------------------------------------------------
 Info) Multithreading available, 12 CPUs detected.
 Info)   CPU features: SSE2 SSE4.1 AVX AVX2 FMA F16 HT 
-Info) Free system memory: 10GB (68%)
+Info) Free system memory: 10GB (63%)
 Info) No CUDA accelerator devices available.
 Warning) Detected X11 'Composite' extension: if incorrect display occurs
 Warning) try disabling this X server option.  Most OpenGL drivers
@@ -22,20 +22,20 @@ Info) File loading in progress, please wait.
 Warning) Unable to ascertain filetype from filename 'require'; assuming pdb.
 ERROR) Could not read file require
 ERROR) Loading of startup molecule files aborted.
-vmd > Info) Using plugin lammpstrj for structure file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_npt.lammpstrj
+vmd > Info) Using plugin lammpstrj for structure file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_nvt.lammpstrj
 lammpsplugin) New style dump with 9 data fields. Coordinate data flags: 0x05
 lammpsplugin) Using absolute atomic coordinates directly.
-Info) Using plugin lammpstrj for coordinates from file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_npt.lammpstrj
+Info) Using plugin lammpstrj for coordinates from file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_nvt.lammpstrj
 Info) Determining bond structure from distance search ...
 Info) Analyzing structure ...
 Info)    Atoms: 2125
-Info)    Bonds: 2513
+Info)    Bonds: 2530
 Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
 Info)    Residues: 250
 Info)    Waters: 0
 Info)    Segments: 1
 Info)    Fragments: 250   Protein: 0   Nucleic: 0
-Info) Finished with coordinate file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_npt.lammpstrj.
-Info) VMD for LINUXAMD64, version 1.9.4a51 (December 21, 2020)
-Info) Exiting normally.
+Info) Coordinate I/O rate 60.4 frames/sec, 1 MB/sec, 3.3 sec
+Info) Finished with coordinate file /home/tarak/Downloads/moltemplate_2021-5-17/Dimethly Imidazole v1/traj_nvt.lammpstrj.
+Type 'user add key F11 {my VMD commands...}' to use this key

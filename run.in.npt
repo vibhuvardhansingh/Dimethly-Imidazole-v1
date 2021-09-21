@@ -2,7 +2,7 @@
 #
 #     You must use moltemplate.sh to create 3 files:
 #        system.data  system.in.init  system.in.settings
-#     (Follow the instructions in README_setup.sh, 
+#     (Follow the instructions in README_setup.sh,
 #      or run the file as a script using ./README_setup.sh)
 
 # ------------------------------- Initialization Section --------------------
@@ -31,7 +31,7 @@ minimize 1.0e-4 1.0e-6 100000 400000
 
 # -- simulation protocol --
 
-timestep        1.0
+timestep        0.5
 
 print "---------------------------------------------------------------------------"
 print "First, use Langevin dynamics to randomize the initial shape of the molecules"
